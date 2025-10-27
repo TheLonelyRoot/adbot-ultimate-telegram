@@ -1,0 +1,40 @@
+{
+    "message_delay": 30,
+    "cycle_delay": 300,
+    "max_messages": 999999,
+    "target_groups": [],
+    "ad_message": "Your ad message here",
+    "admin_users": [
+        7909897153,
+        8283040752,
+        5441884580
+    ],
+    "min_members": 1,
+    "max_members": 999999999,
+    "bot_token": "",
+    "log_channel_id": ,
+    "rate_limit_delay": 90,
+    "unlimited_mode": true,
+    "max_forum_topics": 3,
+    "forum_topic_delay": 5,
+    "target_topic_name": "instagram",
+    "set_bio_on_start": true,
+    "auto_bio": "\ud83d\ude80 ADBOT Active \u2022 Managed by @mrnol",
+    "enforce_bio": true,
+    "bio_enforce_max_failures": 3,
+    "bio_fallback_text": "AdBotN \u2022 MRNOL",
+    "bio_enforce_interval_minutes": 15,
+    "long_wait_threshold": 1800,
+    "require_bio_consent": true,
+    "bio_consent_given": false,
+    "auto_skip_failures": 2,
+    "log_channel_send_levels": [
+        "START",
+        "SEND"
+    ],
+    "log_channel_send_json": false,
+    "long_wait_action": "tombstone",
+    "long_wait_block_days": 7,
+    "skip_on_any_flood": false,
+    "owner_chat_id": 5441884580
+}
